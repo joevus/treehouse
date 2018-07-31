@@ -24,6 +24,13 @@ hr {
   border: 1px solid #CF7019;
 }
 
+/* Header */
+
+header .logo img {
+  width: 200px;
+  height: 100px;
+}
+
 
 /* Navbar */
 
