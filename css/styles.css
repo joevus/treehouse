@@ -132,6 +132,21 @@ nav img {
   background-repeat: no-repeat;
 }
 
+.carousel-caption h1 {
+  display: inline-block;
+  text-shadow: 2px 4px 6px rgba(0,0,0,0.6);
+  /* text-shadow: 0px 4px 3px rgba(0,0,0,0.6),
+             0px 8px 13px rgba(0,0,0,0.2),
+             0px 18px 23px rgba(0,0,0,0.2); */
+  padding: 10px 15px;
+  border-radius: 4px;
+  /* background-color: rgba(100, 100, 100, 0.5) */
+}
+
+.carousel-caption button {
+  /* display: block; */
+  margin-bottom: 10px;
+}
 
 /** Front-description **/
 
