@@ -27,6 +27,7 @@ hr {
 button {
   color: white;
   background-color: #31A3DD;
+  border-radius: 5px;
   padding: 1% 2%;
 }
 
