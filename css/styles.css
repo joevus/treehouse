@@ -84,8 +84,9 @@ nav img {
   box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 
-.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-  border-color: rgb(96, 58, 85);
+.navbar-default .navbar-nav > .active > a {
+  background-color: #31a3dd;
+  color: white;
 }
 
 .navbar-default .nav>li>a {
