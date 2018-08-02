@@ -31,6 +31,12 @@ button {
   padding: 1% 2%;
 }
 
+@media (min-width: 768px) {
+  .text-right-sm-plus {
+    text-align: right;
+  }
+}
+
 /* Header */
 
 header {
@@ -152,12 +158,16 @@ nav img {
 /** Front-description **/
 
 .front-description h2 {
-  margin-bottom: 45px;
+  /* margin-bottom: 45px; */
 }
 
 .front-description p {
-  padding: 0 10px;
-  margin-bottom: 60px;
+  /* padding: 0 10px; */
+  margin-bottom: 50px;
+  background-color: #31a3dd;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 5px;
 }
 
 .front-description img {
