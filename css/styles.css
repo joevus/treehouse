@@ -151,6 +151,15 @@ nav img {
 
 /** Front-description **/
 
+.front-description h2 {
+  margin-bottom: 45px;
+}
+
+.front-description p {
+  padding: 0 10px;
+  margin-bottom: 60px;
+}
+
 .front-description img {
   width: 100%;
 }
