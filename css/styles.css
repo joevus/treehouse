@@ -222,40 +222,6 @@ section.front-promo span.front-promo-text {
   }
 }
 
-/** Features **/
-.features {
-  margin-top: 90px;
-}
-
-.feature-img-parent {
-  background-position: center;
-  background-size: cover;
-  height: 239px;
-  border-radius: 4px;
-}
-
-.features p {
-  padding-top: 4px;
-  height: 140px;
-}
-
-
-.testimonials{
-  margin-top: 100px;
-  margin-bottom: 50px;
-}
-
-.testimonial {
-  margin-top: 40px;
-  margin-bottom: 70px;
-}
-
- .quotation {
-   padding: 30px;
-   background-color: rgb(200,191,182);
-   border-radius: 8px;
-
- }
 
 
 /** About page **/
@@ -316,4 +282,12 @@ footer a {
 }
 footer a:hover {
   text-decoration: none;
+}
+
+footer .footer-top {
+  background: #34495e;
+}
+
+footer .footer-bottom{
+  background: #31A3DD;
 }
