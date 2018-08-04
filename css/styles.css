@@ -15,6 +15,14 @@ body{
   line-height: 1.4;
 }
 
+hr {
+  border: 1px solid #31A3DD;
+}
+
+.gray {
+  background-color: #dfdfdf;
+}
+
 button {
   color: white;
   background-color: #31A3DD;
@@ -219,11 +227,17 @@ section.front-promo span.front-promo-text {
 
 .about-section {
   /* each section tag in about page has this class */
-  margin-top: 90px;
+  padding-top: 75px;
+  padding-bottom: 90px;
+}
+.about-section p {
+  margin-bottom: 25px;
 }
 
-.meet-team {
-  margin-bottom: 90px;
+.what-play {
+  color: #31a3dd;
+  font-weight: bold;
+  font-size: 24px;
 }
 
 /** Reservations **/
