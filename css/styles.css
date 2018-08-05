@@ -240,6 +240,22 @@ section.front-promo span.front-promo-text {
   font-size: 24px;
 }
 
+table {
+  width: 100%;
+}
+
+td, th {
+  border: 2px solid #666;
+  padding: 8px;
+  line-height: 20px;
+  text-align: center;
+  vertical-align: top;
+}
+
+th {
+  background-color: #31a3dd;
+}
+
 /** Reservations **/
 
 .price {
@@ -264,11 +280,11 @@ section.front-promo span.front-promo-text {
     padding: 0;
     margin-bottom: 70px;
 }
-
+/*
 #map {
     height: 400px;
     width: 100%;
-}
+} */
 
 
 /** Footer **/
