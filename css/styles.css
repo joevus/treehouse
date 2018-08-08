@@ -283,23 +283,12 @@ th {
   padding-bottom: 90px;
 }
 
-/* .promo-section h1 {
-  color: #31a3dd;
-} */
-
 .promo-section p, ul {
   margin-bottom: 25px;
 }
 
-/* .promo-section i {
-  color: #31a3dd;
-  color: #333;
-} */
-
 .promo-section .row{
   border-radius: 3px;
-  /* border: dashed 4px #31a3dd; */
-  /* border: solid 3px #31a3dd; */
   border: dashed 4px #333;
 }
 
