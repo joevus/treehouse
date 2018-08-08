@@ -15,6 +15,10 @@ body{
   line-height: 1.4;
 }
 
+table {
+  width: 100%;
+}
+
 hr {
   border: 1px solid #31A3DD;
 }
@@ -244,10 +248,6 @@ section.front-promo span.front-promo-text {
   font-size: 24px;
 }
 
-table {
-  width: 100%;
-}
-
 .about-section table {
   margin-top: 20px;
 }
@@ -298,6 +298,12 @@ th {
 
 .footnote {
   font-size: 11pt;
+}
+
+/** Pricing **/
+
+.pricing-section table {
+  margin-top: 20px;
 }
 
 
