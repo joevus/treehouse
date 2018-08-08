@@ -320,6 +320,18 @@ section.front-promo span.front-promo-text {
   text-align: right;
 }
 
+/** Appointments **/
+
+.appointment-section {
+  padding-top: 75px;
+  padding-bottom: 90px;
+}
+
+.appointment-section a {
+  text-decoration: none;
+  color: #333;
+}
+
 
 /** Footer **/
 
