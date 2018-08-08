@@ -260,31 +260,6 @@ th {
   background-color: #31a3dd;
 }
 
-/** Reservations **/
-
-.price {
-  margin-top: 90px;
-  margin-bottom: 80px;
-}
-
-.reservation {
-  margin-bottom: 90px;
-}
-
-.location {
-  margin-bottom: 80px;
-}
-
-.address {
-    margin-top: 50px;
-}
-
-.location ul {
-    list-style-type: none;
-    padding: 0;
-    margin-bottom: 70px;
-}
-
 #map {
     height: 400px;
     width: 100%;
