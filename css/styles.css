@@ -332,6 +332,11 @@ section.front-promo span.front-promo-text {
   color: #333;
 }
 
+.appointment-section a:focus, .appointment-section a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+
 
 /** Footer **/
 
