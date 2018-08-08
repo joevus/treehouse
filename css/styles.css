@@ -278,6 +278,15 @@ th {
 
 
 /** Promos **/
+.promo-section {
+  padding-top: 75px;
+  padding-bottom: 90px;
+}
+
+.promo-section p, ul {
+  margin-bottom: 25px;
+}
+
 .footnote {
   font-size: 11pt;
 }
