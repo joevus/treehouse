@@ -23,6 +23,10 @@ hr {
   background-color: #dfdfdf;
 }
 
+.strikethrough {
+  text-decoration: line-through;
+}
+
 button {
   color: white;
   background-color: #31A3DD;
