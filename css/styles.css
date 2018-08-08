@@ -303,6 +303,11 @@ section.front-promo span.front-promo-text {
 
 /** Pricing **/
 
+.pricing-section {
+  padding-top: 75px;
+  padding-bottom: 90px;
+}
+
 .pricing-section table {
   margin-top: 20px;
 }
